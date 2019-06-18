@@ -17,3 +17,8 @@ parameters:
 
     # A secret key that's used to generate certain security-related tokens
     secret: ThisTokenIsNotSoSecretChangeIt
+    database_host_heroku: ec2-23-21-148-223.compute-1.amazonaws.com
+    database_port_heroku: 5432
+    database_name_heroku: denp13queflct1
+    database_user_heroku: jsovyebemrupqu
+    database_password_heroku: 34664dde7490de1670639e73ef83cabd362f286d25739656abdea57c743f0843
