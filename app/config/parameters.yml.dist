@@ -22,3 +22,5 @@ parameters:
     database_name_heroku: denp13queflct1
     database_user_heroku: jsovyebemrupqu
     database_password_heroku: 34664dde7490de1670639e73ef83cabd362f286d25739656abdea57c743f0843
+    database_url: ~
+
