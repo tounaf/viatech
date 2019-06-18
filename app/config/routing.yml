@@ -1,0 +1,8 @@
+via_formation:
+    resource: "@ViaFormationBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
